@@ -9,10 +9,9 @@ pip install pyaes ou apt install python3-aes
 
 
 
+![Alt text](./Texto_Encriptografado.png "Optional title")
+
+
+
 
 ![Alt text](./Texto_Descriptografado.png "Optional title")
-
-
-
-
-![Alt text](./Texto_Encriptografado.png "Optional title")
